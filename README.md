@@ -1,4 +1,4 @@
-# Chamka-X
+
 <h1 align="center">Hi 👋, I'm Chamika Rathnayake</h1>
 <h3 align="center">A Intern Software Engineer from Srilanka</h3>
 
